@@ -1,2 +1,1 @@
-# MAZESHOOTER3D
-現在も制作中の3Dゲーム
+
